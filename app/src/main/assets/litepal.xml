@@ -5,6 +5,6 @@
     <list>
         <mapping class="com.example.lamos.db.City"/>
         <mapping class="com.example.lamos.db.County"/>
-        <mapping class="com.example.lamos.db.Provice"/>
+        <mapping class="com.example.lamos.db.Province"/>
     </list>
 </litepal>
