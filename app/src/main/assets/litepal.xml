@@ -7,4 +7,11 @@
         <mapping class="com.example.lamos.db.County"/>
         <mapping class="com.example.lamos.db.Province"/>
     </list>
+
+    <dbname value="user_login"/>
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.example.lamos.login.User"/>
+    </list>
 </litepal>

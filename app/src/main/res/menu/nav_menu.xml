@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Call"
+            android:id="@+id/login_call"/>
+        <item android:title="Friends"/>
+        <item android:title="Location"/>
+        <item android:title="Mail"/>
+        <item android:title="Tasks"/>
+        <item android:title="Login Out"
+            android:id="@+id/login_out"/>
+    </group>
+
+</menu>
